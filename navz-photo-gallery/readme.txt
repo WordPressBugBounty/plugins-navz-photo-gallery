@@ -3,9 +3,9 @@ Contributors: navzme
 Donate link: https://www.buymeacoffee.com/navzme
 Tags: acf, custom, fields, photo, gallery
 Requires at least: 5.8
-Tested up to: 6.5
+Tested up to: 6.9
 Requires PHP: 7.0
-Stable tag: 3.0
+Stable tag: 3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ A lightweight extension of Advanced Custom Field (ACF) that adds Photo Gallery f
 
 If you are installing the ACF Photo Gallery Field for the first time on your WordPress website, we’d like to inform you that this plugin will no longer be maintained as of October 2024. As an alternative, we have launched a new and improved plugin called [ACF Galerie 4](https://wordpress.org/plugins/acf-galerie-4/).
 
-We encourage you to check out [ACF Galerie 4](https://wordpress.org/plugins/acf-galerie-4/) for enhanced features and ongoing support.
+We encourage you to check out [ACF Galerie 4](https://wordpress.org/plugins/acf-galerie-4/) for enhanced features and ongoing support. ACF Galerie 4 includes a built-in migration tool that seamlessly transfers data from ACF Photo Gallery Field or ACF Gallery Pro to ACF Galerie 4. [Learn more](https://wordpress.org/support/topic/migrate-from-acf-photo-gallery-field-to-acf-galerie-4/).
 
 Thanks
 
@@ -154,6 +154,9 @@ From your WordPress dashboard
 4. **Watch** the tutorial to [get started](https://www.youtube.com/watch?v=c7u9FwVLe9Q)
 
 == Changelog ==
+=3.1=
+* [Fixed] WordPress security fix and plugin check fix.
+
 =3.0=
 * [Fixed] URL and target not saving into the database.
 
